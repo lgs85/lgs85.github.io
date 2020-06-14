@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lewis Spurgin"
-  avatar           : "Lewis.JPG"
+  avatar           : "images/Lewis.JPG"
   bio              : "Population genetics, ecology and data science"
   location         : "Norwich"
   employer         :
