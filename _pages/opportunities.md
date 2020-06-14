@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Opportunities"
+permalink: /opportunities/
 author_profile: true
 ---
 
