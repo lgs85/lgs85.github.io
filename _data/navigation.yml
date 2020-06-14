@@ -7,10 +7,10 @@ main:
     url: /research/
 
   - title: "Publications and writing"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /publications/  
     
   - title: "CV"
     url: /cv/
+
+  - title: "Opportunities"
+    url: /opportunities/
