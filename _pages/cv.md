@@ -71,10 +71,12 @@ Administrative duties
 * Communications officer, Biological Sciences, University of East Anglia (2017-present)
 * Entomology Facility Steering Committee Member, John Innes Centre (2017-present)
 
-##Professional membership
+Professional membership
+======
 British Ecological Society, European Society for Evolutionary Biology, Genetics Society, Society for Molecular Biology and Evolution
 
-##Popular science articles
+Popular science articles
+======
 * Spurgin, L.G. (2013) The role of chance in evolution. Aeon Magazine (online only – link [here](https://aeon.co/essays/how-much-does-evolution-depend-on-chance))
 * Spurgin, L.G. (2013) Science and the English Language – lessons from George Orwell. London School of Economics Impact of Social Sciences Blog (online only – link [here](http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/22/science-and-the-english-language/))
 
