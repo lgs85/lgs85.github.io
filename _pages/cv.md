@@ -18,13 +18,6 @@ Education & career
 * 2008 - 2012:  PhD ‘Adaptation and differentiation in wild bird populations’ Biological Sciences, University of East Anglia
 * 2005 - 2008:  BSc (Hons) Ecology (First Class) Biological Sciences, University of East Anglia
 
-Awards and prizes
-======
-* 2013  The Christer Hemborg Lecture, Uppsala University (biannual award and lecture given by a young evolutionary biologist)
-* 2012  ‘Company of Biologists Award’ for best PhD thesis University of East Anglia
-* 2010  Most cited paper of 2010, Proceedings of the Royal Society B
-* 2008  ‘Michael Graham Prize’ for best performance in an Ecology degree, University of East Anglia
-
 Research grants
 ======
 * 2020 NERC (CoI with Matt Gage) 'Understanding heatwave damage through reproduction in insect systems' (£567,637)
@@ -36,9 +29,7 @@ Research grants
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+See my Google Scholar page [here](https://scholar.google.com/citations?user=9Grw5YgAAAAJ&hl=en)
   
 Talks
 ======
@@ -61,13 +52,30 @@ Academic services
 
 Primary PhD supervision
 ======
-- 2019-2023: Pointer, M. The evolutionary ecology of population establishment and spread (PhD, University of East Anglia) 
-- 2017-2021: Hillman, S. Population genetics and ecology of the sugar beet leaf miner (PhD, University of East Anglia) 
-- 2017-2021: Martin, C. Genomic signatures of adaptation in an island bird (PhD, University of East Anglia)
-- 2016-2019:  Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia)
+* 2019-2023: Pointer, M. The evolutionary ecology of population establishment and spread (PhD, University of East Anglia) 
+* 2017-2021: Hillman, S. Population genetics and ecology of the sugar beet leaf miner (PhD, University of East Anglia) 
+* 2017-2021: Martin, C. Genomic signatures of adaptation in an island bird (PhD, University of East Anglia)
+* 2016-2019:  Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia)
   
-Teaching
+Teaching and examination
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* External PhD examiner for one thesis (University of Oxford), internal PhD examiner for two theses (University of East Anglia)
+* Organiser of "statistics for biologists", University of East Anglia (2018-present)
+* Fellow of the Higher Education Academy (2020-present)
+* Invited instructor ‘Introductory population genomics’ – Physalia Courses, Berlin (2017-present)
+* Lectures, seminars, field courses and lab sessions given in following modules: Field Ecology, Behavioural Ecology, Evolutionary Biology, Biodiversity, Conservation Genetics, Host-Pathogen Coevolution, Population and Community Ecology, Environmental Biology
+
+Administrative duties
+======
+* Student Partnership Officer, Biological Sciences, University of East Anglia (2019-present)
+* Communications officer, Biological Sciences, University of East Anglia (2017-present)
+* Entomology Facility Steering Committee Member, John Innes Centre (2017-present)
+
+##Professional membership
+British Ecological Society, European Society for Evolutionary Biology, Genetics Society, Society for Molecular Biology and Evolution
+
+##Popular science articles
+* Spurgin, L.G. (2013) The role of chance in evolution. Aeon Magazine (online only – link [here](https://aeon.co/essays/how-much-does-evolution-depend-on-chance))
+* Spurgin, L.G. (2013) Science and the English Language – lessons from George Orwell. London School of Economics Impact of Social Sciences Blog (online only – link [here](http://blogs.lse.ac.uk/impactofsocialsciences/2013/03/22/science-and-the-english-language/))
+
+
