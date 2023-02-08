@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Links
-permalink: /index/
 ---
 
 - [GitHub](https://github.com/lgs85)
