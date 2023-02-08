@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links
+permalink: /links/
 ---
 
-- I am a Data and Policy Consultant with [Open Data Services](https://opendataservices.coop/), where I work on data standard development, data analysis and policy initiatives around open data. I've worked on open data standards for [beneficial ownership of companies](https://github.com/openownership/data-standard), [fibre infrastructure](https://github.com/Open-Telecoms-Data/open-fibre-data-standard) and [community services](https://github.com/openreferral/specification).
-- From 2020-2022 I worked as a Senior Epidemiologist for [Norfolk County Council](https://www.norfolk.gov.uk/) Public Health. I primarily worked on Covid-19 surveillance and response, but was alsop involved in other areas of public health intelligence.
-- From finishing my PhD 2012 until 2020, I held research fellowships then a lectureship in biology. Most of this time was spent in [Biological Sciences at the University of East Anglia](https://www.uea.ac.uk/web/about/school-of-biological-sciences), but I also held fellowships at the Universities of [Groningen](https://www.rug.nl/?lang=en) and [Oxford](https://www.ox.ac.uk/).
-- I live and work in Norwich, UK
+- [GitHub](https://github.com/lgs85)
+- [Twitter](https://twitter.com/LewisSpurgin)
+- [LinkedIn](https://uk.linkedin.com/in/lewis-spurgin-729b94111?original_referer=https%3A%2F%2Fduckduckgo.com%2F)
+- [Google Scholar](https://0-scholar-google-com.brum.beds.ac.uk/citations?user=9Grw5YgAAAAJ&hl=en)
