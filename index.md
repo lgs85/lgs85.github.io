@@ -1,4 +1,8 @@
-# Links
+---
+layout: page
+title: Links
+permalink: /index/
+---
 
 - [About](/about.md)
 - [GitHub](https://github.com/lgs85)

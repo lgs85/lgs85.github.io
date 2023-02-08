@@ -1,4 +1,8 @@
-# About
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 - I am a Data and Policy Consultant with [Open Data Services](https://opendataservices.coop/), where I work on data standard development, data analysis and policy initiatives around open data. I've worked on open data standards for [beneficial ownership of companies](https://github.com/openownership/data-standard), [fibre infrastructure](https://github.com/Open-Telecoms-Data/open-fibre-data-standard) and [community services](https://github.com/openreferral/specification).
 - From 2020-2022 I worked as a Senior Epidemiologist for [Norfolk County Council](https://www.norfolk.gov.uk/) Public Health. I primarily worked on Covid-19 surveillance and response, but was alsop involved in other areas of public health intelligence.
